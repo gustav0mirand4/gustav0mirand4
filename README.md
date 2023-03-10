@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div style="disply: inline_block"><br>
-    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <img aling="center" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <div>
