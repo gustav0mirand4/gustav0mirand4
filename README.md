@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-miranda-8a5001196/">
-</div>
+<div style="disply: inline_block"><br>
+    <img aling="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<div>
